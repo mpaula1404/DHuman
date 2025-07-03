@@ -1,6 +1,6 @@
 import React from "react";
 import NavTitle from "@/components/Molecules/Sidebar";
-import { PaymentTable } from "@/components/Organisms/PaymentTable";
+import { PaymentTable } from "@/components/Organisms/Nav/PaymentTable";
 
 const Index = () => {
   return (

@@ -1,8 +1,7 @@
-// src/pages/capacitaciones/index.tsx
 import React from "react";
 import NavTitle from "@/components/Molecules/Sidebar";
 import { SearchBarCapacitacion } from "@/components/Molecules/SearchBarCapacitacion";
-import { TrainingSectionCapacitacion } from "@/components/Organisms/TrainingSectionCapacitacion";
+import { TrainingSectionCapacitacion } from "@/components/Organisms/Nav/TrainingSectionCapacitacion";
 
 const Index = () => {
   const upcoming = [

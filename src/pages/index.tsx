@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "@/components/Atoms/Buttons";
 import NavTitle from "@/components/Molecules/Sidebar";
-import DashboardMenu from "@/components/Organisms/DashboardMenu";
+import DashboardMenu from "@/components/Organisms/Nav/DashboardMenu";
 
 const index = () => {
   return (

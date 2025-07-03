@@ -1,5 +1,5 @@
 import React from "react";
-import OptionCard from "../Atoms/OptionCard";
+import OptionCard from "../../Atoms/OptionCard";
 
 import {
   FaClock,

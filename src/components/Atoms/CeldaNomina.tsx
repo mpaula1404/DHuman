@@ -1,4 +1,3 @@
-// src/components/atoms/Cell.tsx
 import { ReactNode } from "react";
 
 interface CellProps {

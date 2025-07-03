@@ -1,8 +1,7 @@
-// src/pages/desempeno/index.tsx
 import React, { useState } from "react";
 import { SummaryReportes } from "@/components/Molecules/SummaryReportes";
 import { ButtonReportes } from "@/components/Atoms/ButtonReportes";
-import { ReportResultTable } from "@/components/Organisms/ReportResultTable";
+import { ReportResultTable } from "@/components/Organisms/Nav/ReportResultTable";
 import NavTitle from "@/components/Molecules/Sidebar";
 
 const Desempeno = () => {
