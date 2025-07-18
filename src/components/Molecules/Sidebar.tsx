@@ -30,7 +30,7 @@ const Sidebar = () => {
         <div className="fixed top-0 left-0 h-screen w-64 bg-bank2 flex flex-col justify-between shadow-lg">
           <div className="flex flex-col items-center pt-6 px-4">
             <div className="bg-bank2 text-bank4 font-bold text-4xl w-35 h-30 rounded-2xl flex items-center justify-center mb-8 hover:border-b-2 hover:border-bank4">
-              <img src="/images/logo.png" />
+              <img src="/images/logo.png" alt="logo de Dhuman" />
             </div>
 
             <div className="flex flex-col gap-6 w-full">

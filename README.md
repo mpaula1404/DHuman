@@ -1,3 +1,31 @@
+# DHuman – Plataforma de Gestión del Talento Humano
+
+DHUMAN es una aplicación web desarrollada para facilitar la gestión de recursos humanos en organizaciones. Está pensada para que los colaboradores puedan registrar su jornada laboral, solicitar permisos o vacaciones, consultar su nómina y participar en procesos de capacitación y evaluación del desempeño.
+
+## Funcionalidades principales
+
+- Registro de hora de entrada y salida
+- Solicitud de vacaciones y permisos
+- Visualización de nómina
+- Gestión de capacitaciones
+- Evaluación de desempeño individual
+
+## 🧑‍💻 Integrantes del equipo
+
+- Ivan Eduardo Valdes Noreña 
+- Mateo Reyes Uribe
+- Maria Paula Mosquera Alvarez
+
+
+## Tecnologías utilizadas
+
+- **Next.js** + **React**
+- **TypeScript**
+- **TailwindCSS**
+- **Vercel** (para el despliegue)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started

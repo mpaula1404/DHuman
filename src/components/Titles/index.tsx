@@ -1,4 +1,3 @@
-import { Subtitles } from 'lucide-react';
 import React from 'react';
 
 const HeroTitle = () => {
@@ -8,13 +7,16 @@ const HeroTitle = () => {
 }
 const MediumTitle = () => {
   return (
-    <h2>¿Que quieres hacer hoy?</h2>
+    <h2>¿Qué quieres hacer hoy?</h2>
   );
 }
 const SubTitle = () => {
   return (
-    <h3>¿Que quieres hacer hoy?</h3>
+    <h3>¿Qué quieres hacer hoy?</h3>
   );
 }
 
-export default {HeroTitle, MediumTitle, SubTitle};
+const Titles = { HeroTitle, MediumTitle, SubTitle };
+
+export default Titles;
+

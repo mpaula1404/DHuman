@@ -1,6 +1,5 @@
 import React from "react";
 import { SelectReportes } from "@/components/Atoms/SelectReportes";
-import { Select } from "react-day-picker";
 
 interface Props {
   reportType: string;
