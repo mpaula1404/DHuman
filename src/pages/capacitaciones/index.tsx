@@ -22,19 +22,19 @@ const Index = () => {
 
       <main className="p-10 w-full md:ml-40">
         <div>
-        <h1 className="text-3xl font-bold mb-4 flex items-center gap-2">
-          🎓 Capacitaciones
-        </h1>
-        <SearchBarCapacitacion />
-        <TrainingSectionCapacitacion
-          title="Próximas capacitaciones:"
-          trainings={upcoming}
-        />
-        <TrainingSectionCapacitacion
-          title="Mis capacitaciones:"
-          trainings={completed}
-        />
-      </div>
+          <h1 className="text-3xl font-bold mb-4 flex items-center gap-2">
+            🎓 Capacitaciones
+          </h1>
+          <SearchBarCapacitacion />
+          <TrainingSectionCapacitacion
+            title="Próximas capacitaciones:"
+            trainings={upcoming}
+          />
+          <TrainingSectionCapacitacion
+            title="Mis capacitaciones:"
+            trainings={completed}
+          />
+        </div>
       </main>
     </div>
   );
