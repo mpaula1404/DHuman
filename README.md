@@ -24,6 +24,9 @@ DHUMAN es una aplicación web desarrollada para facilitar la gestión de recurso
 - **TailwindCSS**
 - **Vercel** (para el despliegue)
 
+## Enlace de despliege
+Dhuman -Gestión de recursos humanos https://dhuman.vercel.app/
+
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).

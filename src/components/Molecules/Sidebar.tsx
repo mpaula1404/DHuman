@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Link from "next/link";
 import NavTitle from "../Atoms/NavTitle";
 import {
   FaClock,
@@ -30,9 +31,9 @@ const Sidebar = () => {
         <div className="fixed top-0 left-0 h-screen w-64 bg-bank2 flex flex-col justify-between shadow-lg">
           <div className="flex flex-col items-center pt-6 px-4">
             <div className="bg-bank2 text-bank4 font-bold text-4xl w-35 h-30 rounded-2xl flex items-center justify-center mb-8 hover:border-b-2 hover:border-bank4">
-              <a href="/inicio" title="Ir al inicio">
-                <img src="/images/logo.png" alt="logo de Dhuman" />
-              </a>
+                <Link href="/inicio/">
+                  <img src="/images/logo.png" alt="logo de Dhuman" />
+                </Link>
             </div>
 
             <div className="flex flex-col gap-6 w-full">
